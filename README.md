@@ -1,2 +1,2 @@
 # logistic_regression
-Classification using logistic regression on Fashion MNIST data
+This project performs classification using machine learning for a two-class problem. The classification features used are pre-computed from the digital images of a fine needle aspirate (FNA) of a breast mass. We have classified the suspected FNA cells as Benign (class 0) or Malignant (class 1) using logistic regression as the classifier using the Wisconsin Diagnostic Breast Cancer (wdbc. dataset) as our dataset.
